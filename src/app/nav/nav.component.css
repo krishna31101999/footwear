@@ -6,13 +6,11 @@
     background-color:black;
     color: white;
 }
-#homecard{
-    padding-bottom: 32px;
-}
 
-nav{
+
+/* nav{
     border-bottom: 2px solid black;
-}
+} */
 #navbarNavAltMarkup{
     margin-left: -160px;
     font-size: 19px;
