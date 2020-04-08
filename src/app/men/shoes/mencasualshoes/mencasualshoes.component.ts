@@ -11,5 +11,5 @@ export class MencasualshoesComponent implements OnInit {
 
   ngOnInit() {
   }
-
+ 
 }

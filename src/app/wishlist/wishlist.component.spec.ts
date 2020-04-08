@@ -1,20 +1,20 @@
 import { async, ComponentFixture, TestBed } from '@angular/core/testing';
 
-import { KflipflopsComponent } from './kflipflops.component';
+import { WishlistComponent } from './wishlist.component';
 
-describe('KflipflopsComponent', () => {
-  let component: KflipflopsComponent;
-  let fixture: ComponentFixture<KflipflopsComponent>;
+describe('WishlistComponent', () => {
+  let component: WishlistComponent;
+  let fixture: ComponentFixture<WishlistComponent>;
 
   beforeEach(async(() => {
     TestBed.configureTestingModule({
-      declarations: [ KflipflopsComponent ]
+      declarations: [ WishlistComponent ]
     })
     .compileComponents();
   }));
 
   beforeEach(() => {
-    fixture = TestBed.createComponent(KflipflopsComponent);
+    fixture = TestBed.createComponent(WishlistComponent);
     component = fixture.componentInstance;
     fixture.detectChanges();
   });

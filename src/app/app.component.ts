@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import { RatingModule } from 'ng-starrating';
 
 @Component({
   selector: 'app-root',

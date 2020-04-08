@@ -12,11 +12,11 @@
     border-bottom: 2px solid black;
 } */
 #navbarNavAltMarkup{
-    margin-left: -160px;
+    margin-left: -200px;
     font-size: 19px;
 }
 #menu{
-    padding-right: 40px;
+    padding-right: 30px;
     color:red;
 }
 #menu:hover{
@@ -32,12 +32,15 @@ background-color: white;
 #user{
     padding-left: 75px;
     size: 20px;
+    color: black;
 }
 #wishlist{
     padding-left: 55px;
+    color: black;
 }
 #cart{
     padding-left: 55px;
+    color: black;
 }
 
 
